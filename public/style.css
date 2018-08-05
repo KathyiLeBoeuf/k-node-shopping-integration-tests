@@ -45,3 +45,9 @@ button:hover {
 .shopping-item__checked {
   text-decoration: line-through;
 }
+fieldset {
+background-color: azure;
+}
+.js-recipes {
+  background-color: aliceblue;
+}
